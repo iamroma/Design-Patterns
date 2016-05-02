@@ -1,5 +1,7 @@
 package com.roma.design.patterns.singleton;
 
+import com.roma.design.patterns.singleton.classes.SingleObject;
+
 /**
  * Created by Roma on 5/1/16.
  */

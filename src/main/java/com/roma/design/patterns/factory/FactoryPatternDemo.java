@@ -1,5 +1,8 @@
 package com.roma.design.patterns.factory;
 
+import com.roma.design.patterns.factory.classes.ShapeFactory;
+import com.roma.design.patterns.factory.interfaces.Shape;
+
 /**
  * Created by Roma on 5/1/16.
  */
