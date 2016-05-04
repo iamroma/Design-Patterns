@@ -9,7 +9,7 @@ import com.roma.design.patterns.abstractFactory.interfaces.Shape;
 public class ShapeFactory extends AbstractFactory {
 
     @Override
-    Shape getShape(String shape) {
+    public Shape getShape(String shape) {
 
         if (shape == null || "".equals(shape.trim())) {
             return null;
@@ -31,7 +31,7 @@ public class ShapeFactory extends AbstractFactory {
     }
 
     @Override
-    Color getColor(String color) {
+    public Color getColor(String color) {
         return null;
     }
 }
