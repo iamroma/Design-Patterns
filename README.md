@@ -1,5 +1,7 @@
 # Design-Patterns
-### My practice of design patterns.
+### My practice of design patterns in java.
+
+![summary](summary.png)
 
 1. **Factory Pattern**
   * Factory pattern is one of most used design pattern in Java. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
